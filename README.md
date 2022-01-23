@@ -48,7 +48,7 @@ For smallest to biggest
 
 |branch and crate name|size|
 |--|--|
-|master (baseline, not HTTP support)|148,480|
+|master (baseline, just a hello-world)|148,480|
 |[winhttp](https://github.com/AustinWise/rust-http-binary-size/commit/dbc034d9ace89dae2223eb206fbdddb04ae14cd2)|164,352|
 |[curl](https://github.com/AustinWise/rust-http-binary-size/commit/0d22aa271c4f2f2668ca68eb407da26bfb331a08)|564,224|
 |[hyper (HTTP 1.1 only)](https://github.com/AustinWise/rust-http-binary-size/commit/c5b66a768546711952d66f53285e730cab6cac60)|1,415,680|
